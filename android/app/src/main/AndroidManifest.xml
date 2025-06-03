@@ -1,6 +1,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
+<<<<<<< HEAD
         android:label="tp_provider"
+=======
+        android:label="gameloft"
+>>>>>>> 8998629 (Premier commit gameloft)
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

@@ -8,7 +8,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
+<<<<<<< HEAD
 import 'package:tp_provider/main.dart';
+=======
+import 'package:gameloft/main.dart';
+>>>>>>> 8998629 (Premier commit gameloft)
 
 void main() {
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {

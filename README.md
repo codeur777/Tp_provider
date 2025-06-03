@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # tp_provider
+=======
+# gameloft
+>>>>>>> 8998629 (Premier commit gameloft)
 
 A new Flutter project.
 
